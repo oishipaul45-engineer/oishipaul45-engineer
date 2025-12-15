@@ -1,16 +1,22 @@
-## Hi there 👋
+Aspiring AI and DS enginewer| Learning and Exploring everyday| Poster Making as hobby
 
-<!--
-**oishipaul45-engineer/oishipaul45-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+�👋Hi, I'm Oishi Paul
+
+�🎓B.Tech Student | Artifical Intelligence& Data SCience
+�💡Curious about exploring coding languages and learning
+
+
+
+�🧠About Me
+
+�🔍Interested in Machine Learning, Data Science & AI
+�🖥️Enjoy working on Projects & Hackathons
+
+
+
+�🛠️ Skills & Tools:
+
+Languages: Python
+Web: HTML, CSS
