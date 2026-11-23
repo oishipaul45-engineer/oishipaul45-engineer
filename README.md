@@ -1,6 +1,10 @@
 
-<!-- OISHI PAUL — GitHub Profile README | Electric Galaxy Edition -->
-<!-- Paste into github.com/oishipaul45-engineer/oishipaul45-engineer/README.md -->
+<!--
+  OISHI PAUL — GITHUB PROFILE README
+  ELECTRIC GALAXY EDITION
+  Theme: Hot Pink × Electric Purple × Cyan × Neon Lime
+  GitHub: oishipaul45-engineer
+-->
 
 <div align="center">
 
@@ -36,7 +40,7 @@
 
 <h3>Hey, I'm Oishi! 👋</h3>
 
-<p>I'm an <strong>AI & Data Science student, full-stack builder, and creative developer</strong> who likes making software look and feel anything but ordinary.</p>
+<p>I'm an <strong>AI &amp; Data Science student, full-stack builder, and creative developer</strong> who likes making software look and feel anything but ordinary.</p>
 
 <p>I love the space where <strong>code meets visual storytelling</strong> — from immersive 3D worlds to practical apps and experimental interfaces.</p>
 
@@ -80,7 +84,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<p><sub><strong>01 · MUSIC & DIGITAL EXPERIENCES</strong></sub></p>
+<p><sub><strong>01 · MUSIC &amp; DIGITAL EXPERIENCES</strong></sub></p>
 
 <h3>🎧 SONORA</h3>
 
@@ -102,10 +106,12 @@
 
 <p><code>HTML</code> <code>EdTech</code> <code>Collaboration</code></p>
 
-<a href="https://github.com/oishipaul45-engineer/SkillOrbit"><img src="https://img.shields.io/badge/EXPLORE_CODE-784BA0?style=for-the-badge&logo=github&logoColor=white" alt="SkillOrbit code" /></a>
+<a href="https://github.com/oishipaul45-engineer/SkillOrbit"><img src="https://img.shields.io/badge/CODE-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="SkillOrbit code" /></a>
+<a href="https://oishipaul45-engineer.github.io/SkillOrbit/"><img src="https://img.shields.io/badge/LIVE-00BCEB?style=for-the-badge&logo=vercel&logoColor=white" alt="SkillOrbit live" /></a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -117,7 +123,8 @@
 
 <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Firebase</code></p>
 
-<a href="https://github.com/oishipaul45-engineer/Finova-Financial-Dashboard"><img src="https://img.shields.io/badge/EXPLORE_CODE-784BA0?style=for-the-badge&logo=github&logoColor=white" alt="Finova code" /></a>
+<a href="https://github.com/oishipaul45-engineer/Finova-Financial-Dashboard"><img src="https://img.shields.io/badge/CODE-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="Finova code" /></a>
+<a href="https://finova-a6602.web.app/"><img src="https://img.shields.io/badge/LIVE-00BCEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Finova live" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -130,10 +137,12 @@
 
 <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>3D</code></p>
 
-<a href="https://github.com/oishipaul45-engineer/Campverse"><img src="https://img.shields.io/badge/EXPLORE_CODE-784BA0?style=for-the-badge&logo=github&logoColor=white" alt="Campverse code" /></a>
+<a href="https://github.com/oishipaul45-engineer/Campverse"><img src="https://img.shields.io/badge/CODE-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="Campverse code" /></a>
+<a href="https://campverse-d5016.web.app"><img src="https://img.shields.io/badge/LIVE-00BCEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Campverse live" /></a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -164,10 +173,11 @@
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<p><sub><strong>07 · IDENTITY & CAREER WORKSPACE</strong></sub></p>
+<p><sub><strong>07 · IDENTITY &amp; CAREER WORKSPACE</strong></sub></p>
 
 <h3>✨ CREDORA</h3>
 
@@ -240,6 +250,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=oishipaul45-engineer&show_icons=true&hide_border=true&bg_color=131326&title_color=FF5EBC&text_color=E6E6FA&icon_color=00D9FF" height="175" alt="GitHub statistics" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishipaul45-engineer&layout=compact&hide_border=true&bg_color=131326&title_color=FF5EBC&text_color=E6E6FA" height="175" alt="GitHub languages" />
 
 <br/><br/>
@@ -272,17 +283,18 @@ I'm building **Visual Umami** as a creative initiative bringing together strikin
 <tr>
 <td width="50%" align="center">
 
-<h3>🎭 Branding & Logos</h3>
+<h3>🎭 Branding &amp; Logos</h3>
 <p>Visual identities, concepts, and brand expression.</p>
 
 </td>
 <td width="50%" align="center">
 
-<h3>📰 Posters & Brochures</h3>
+<h3>📰 Posters &amp; Brochures</h3>
 <p>Promotional visuals and thoughtful layouts.</p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center">
 
