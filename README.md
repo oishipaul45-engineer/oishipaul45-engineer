@@ -12,9 +12,9 @@
 
 **B.Tech in Artificial Intelligence & Data Science** · Kolkata, India 🇮🇳
 
-<a href="https://oishipaul.vercel.app/"><img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-FF3CAC?style=for-the-badge&labelColor=16152B&color=FF3CAC" alt="Portfolio" /></a>
-<a href="https://github.com/oishipaul45-engineer?tab=repositories"><img src="https://img.shields.io/badge/✦_ALL_PROJECTS-00D9FF?style=for-the-badge&labelColor=16152B&color=00D9FF" alt="All projects" /></a>
-<a href="https://github.com/oishipaul45-engineer"><img src="https://img.shields.io/badge/★_FOLLOW_MY_WORK-A7F432?style=for-the-badge&labelColor=16152B&color=A7F432" alt="GitHub profile" /></a>
+<a href="https://oishipaul.vercel.app/"><img src="https://img.shields.io/badge/MY_PORTFOLIO-FF3CAC?style=for-the-badge&labelColor=16152B&color=FF3CAC" alt="Portfolio" /></a>
+<a href="https://github.com/oishipaul45-engineer?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-00D9FF?style=for-the-badge&labelColor=16152B&color=00D9FF" alt="All projects" /></a>
+<a href="https://github.com/oishipaul45-engineer"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-A7F432?style=for-the-badge&labelColor=16152B&color=A7F432" alt="GitHub profile" /></a>
 
 <br/><br/>
 
@@ -34,18 +34,20 @@
 <tr>
 <td width="62%" valign="top">
 
-### Hey, I'm Oishi! 👋
+<h3>Hey, I'm Oishi! 👋</h3>
 
-I'm an **AI & Data Science student, full-stack builder, and creative developer** who likes making software look and feel anything but ordinary.
+<p>I'm an <strong>AI & Data Science student, full-stack builder, and creative developer</strong> who likes making software look and feel anything but ordinary.</p>
 
-I love the space where **code meets visual storytelling** — from immersive 3D worlds to practical apps and experimental interfaces.
+<p>I love the space where <strong>code meets visual storytelling</strong> — from immersive 3D worlds to practical apps and experimental interfaces.</p>
 
-- 💜 **Creating:** expressive web experiences and full-stack products
-- 🪐 **Exploring:** 3D interfaces, AI, and creative coding
-- ⚡ **Enjoying:** hackathons, prototypes, and ambitious ideas
-- 🎨 **Building a venture:** **Visual Umami**, my creative design initiative
+<ul>
+<li>💜 <strong>Creating:</strong> expressive web experiences and full-stack products</li>
+<li>🪐 <strong>Exploring:</strong> 3D interfaces, AI, and creative coding</li>
+<li>⚡ <strong>Enjoying:</strong> hackathons, prototypes, and ambitious ideas</li>
+<li>🎨 <strong>Building a venture:</strong> Visual Umami, my creative design initiative</li>
+</ul>
 
-**My philosophy:** Build things that work. Make them worth remembering.
+<p><strong>My philosophy:</strong> Build things that work. Make them worth remembering.</p>
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -78,13 +80,13 @@ I love the space where **code meets visual storytelling** — from immersive 3D 
 <tr>
 <td width="50%" valign="top">
 
-**<sub>01 · MUSIC & DIGITAL EXPERIENCES</sub>**
+<p><sub><strong>01 · MUSIC & DIGITAL EXPERIENCES</strong></sub></p>
 
-### 🎧 SONORA
+<h3>🎧 SONORA</h3>
 
-A modern music streaming experience with an engaging interface and a focus on the listening journey.
+<p>A modern music streaming experience with an engaging interface and a focus on the listening journey.</p>
 
-`TypeScript` `Music` `Frontend`
+<p><code>TypeScript</code> <code>Music</code> <code>Frontend</code></p>
 
 <a href="https://github.com/oishipaul45-engineer/sonora"><img src="https://img.shields.io/badge/CODE-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="Sonora code" /></a>
 <a href="https://sonora-two-psi.vercel.app"><img src="https://img.shields.io/badge/LIVE-00BCEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Sonora live" /></a>
@@ -92,13 +94,13 @@ A modern music streaming experience with an engaging interface and a focus on th
 </td>
 <td width="50%" valign="top">
 
-**<sub>02 · PEER-TO-PEER LEARNING</sub>**
+<p><sub><strong>02 · PEER-TO-PEER LEARNING</strong></sub></p>
 
-### 🧠 SKILLORBIT
+<h3>🧠 SKILLORBIT</h3>
 
-A skill exchange platform where people discover others, share what they know, and request learning sessions.
+<p>A skill exchange platform where people discover others, share what they know, and request learning sessions.</p>
 
-`HTML` `EdTech` `Collaboration`
+<p><code>HTML</code> <code>EdTech</code> <code>Collaboration</code></p>
 
 <a href="https://github.com/oishipaul45-engineer/SkillOrbit"><img src="https://img.shields.io/badge/EXPLORE_CODE-784BA0?style=for-the-badge&logo=github&logoColor=white" alt="SkillOrbit code" /></a>
 
@@ -107,26 +109,26 @@ A skill exchange platform where people discover others, share what they know, an
 <tr>
 <td width="50%" valign="top">
 
-**<sub>03 · FINANCIAL DATA VISUALIZATION</sub>**
+<p><sub><strong>03 · FINANCIAL DATA VISUALIZATION</strong></sub></p>
 
-### 📊 FINOVA
+<h3>📊 FINOVA</h3>
 
-A futuristic financial analytics dashboard blending readable data displays with an expressive interface.
+<p>A futuristic financial analytics dashboard blending readable data displays with an expressive interface.</p>
 
-`HTML` `CSS` `JavaScript` `Firebase`
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Firebase</code></p>
 
 <a href="https://github.com/oishipaul45-engineer/Finova-Financial-Dashboard"><img src="https://img.shields.io/badge/EXPLORE_CODE-784BA0?style=for-the-badge&logo=github&logoColor=white" alt="Finova code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**<sub>04 · 3D CAMPUS DISCOVERY</sub>**
+<p><sub><strong>04 · 3D CAMPUS DISCOVERY</strong></sub></p>
 
-### 🏛️ CAMPVERSE
+<h3>🏛️ CAMPVERSE</h3>
 
-An interactive campus discovery concept exploring how 3D navigation can make digital spaces more engaging.
+<p>An interactive campus discovery concept exploring how 3D navigation can make digital spaces more engaging.</p>
 
-`React` `TypeScript` `Vite` `3D`
+<p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>3D</code></p>
 
 <a href="https://github.com/oishipaul45-engineer/Campverse"><img src="https://img.shields.io/badge/EXPLORE_CODE-784BA0?style=for-the-badge&logo=github&logoColor=white" alt="Campverse code" /></a>
 
@@ -135,13 +137,13 @@ An interactive campus discovery concept exploring how 3D navigation can make dig
 <tr>
 <td width="50%" valign="top">
 
-**<sub>05 · A PERSONAL UNIVERSE</sub>**
+<p><sub><strong>05 · A PERSONAL UNIVERSE</strong></sub></p>
 
-### 🪐 AETHERA
+<h3>🪐 AETHERA</h3>
 
-An immersive 3D universe designed to organize ideas, thoughts, notes, projects, and goals in a different way.
+<p>An immersive 3D universe designed to organize ideas, thoughts, notes, projects, and goals in a different way.</p>
 
-`JavaScript` `3D Web` `Productivity`
+<p><code>JavaScript</code> <code>3D Web</code> <code>Productivity</code></p>
 
 <a href="https://github.com/oishipaul45-engineer/AETHERA"><img src="https://img.shields.io/badge/CODE-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="Aethera code" /></a>
 <a href="https://aethera-library.vercel.app/"><img src="https://img.shields.io/badge/LIVE-00BCEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Aethera live" /></a>
@@ -149,13 +151,13 @@ An immersive 3D universe designed to organize ideas, thoughts, notes, projects, 
 </td>
 <td width="50%" valign="top">
 
-**<sub>06 · EXPERIMENTAL FINTECH</sub>**
+<p><sub><strong>06 · EXPERIMENTAL FINTECH</strong></sub></p>
 
-### 💳 VYRA
+<h3>💳 VYRA</h3>
 
-A bold fintech experiment blending interactive payment simulations, money insights, 3D design, and fluid animation.
+<p>A bold fintech experiment blending interactive payment simulations, money insights, 3D design, and fluid animation.</p>
 
-`React` `TypeScript` `Three.js` `Fintech`
+<p><code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Fintech</code></p>
 
 <a href="https://github.com/oishipaul45-engineer/VYRA"><img src="https://img.shields.io/badge/CODE-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="VYRA code" /></a>
 <a href="https://vyra-production-adbf19d0.up.railway.app/"><img src="https://img.shields.io/badge/LIVE-00BCEB?style=for-the-badge&logo=vercel&logoColor=white" alt="VYRA live" /></a>
@@ -165,13 +167,13 @@ A bold fintech experiment blending interactive payment simulations, money insigh
 <tr>
 <td width="50%" valign="top">
 
-**<sub>07 · IDENTITY & CAREER WORKSPACE</sub>**
+<p><sub><strong>07 · IDENTITY & CAREER WORKSPACE</strong></sub></p>
 
-### ✨ CREDORA
+<h3>✨ CREDORA</h3>
 
-A professional identity workspace for managing skills, presenting a profile, and exploring career development.
+<p>A professional identity workspace for managing skills, presenting a profile, and exploring career development.</p>
 
-`React` `TypeScript` `FastAPI` `Python`
+<p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Python</code></p>
 
 <a href="https://github.com/oishipaul45-engineer/Credora"><img src="https://img.shields.io/badge/CODE-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="Credora code" /></a>
 <a href="https://credora-connect.vercel.app/"><img src="https://img.shields.io/badge/LIVE-00BCEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Credora live" /></a>
@@ -179,13 +181,13 @@ A professional identity workspace for managing skills, presenting a profile, and
 </td>
 <td width="50%" valign="top">
 
-**<sub>08 · PERSONAL CREATIVE PORTFOLIO</sub>**
+<p><sub><strong>08 · PERSONAL CREATIVE PORTFOLIO</strong></sub></p>
 
-### 🌐 WORLDOFOISHI
+<h3>🌐 WORLDOFOISHI</h3>
 
-My interactive portfolio universe, where projects meet 3D visuals, immersive interactions, and creative storytelling.
+<p>My interactive portfolio universe, where projects meet 3D visuals, immersive interactions, and creative storytelling.</p>
 
-`React` `TypeScript` `Three.js` `Portfolio`
+<p><code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>Portfolio</code></p>
 
 <a href="https://github.com/oishipaul45-engineer/WorldOfOishi"><img src="https://img.shields.io/badge/CODE-FF3CAC?style=for-the-badge&logo=github&logoColor=white" alt="WorldOfOishi code" /></a>
 <a href="https://oishipaul.vercel.app/"><img src="https://img.shields.io/badge/LIVE-00BCEB?style=for-the-badge&logo=vercel&logoColor=white" alt="WorldOfOishi live" /></a>
@@ -196,7 +198,7 @@ My interactive portfolio universe, where projects meet 3D visuals, immersive int
 
 <div align="center">
 
-<a href="https://github.com/oishipaul45-engineer?tab=repositories"><img src="https://img.shields.io/badge/✦_BROWSE_EVERY_REPOSITORY-A7F432?style=for-the-badge&labelColor=17152E" alt="Browse all repositories" /></a>
+<a href="https://github.com/oishipaul45-engineer?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_EVERY_REPOSITORY-A7F432?style=for-the-badge&labelColor=17152E" alt="Browse all repositories" /></a>
 
 </div>
 
@@ -270,28 +272,28 @@ I'm building **Visual Umami** as a creative initiative bringing together strikin
 <tr>
 <td width="50%" align="center">
 
-### 🎭 Branding & Logos
-Visual identities, concepts, and brand expression.
+<h3>🎭 Branding & Logos</h3>
+<p>Visual identities, concepts, and brand expression.</p>
 
 </td>
 <td width="50%" align="center">
 
-### 📰 Posters & Brochures
-Promotional visuals and thoughtful layouts.
+<h3>📰 Posters & Brochures</h3>
+<p>Promotional visuals and thoughtful layouts.</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### 🌐 Frontend Experiences
-Creative websites and interactive interfaces.
+<h3>🌐 Frontend Experiences</h3>
+<p>Creative websites and interactive interfaces.</p>
 
 </td>
 <td width="50%" align="center">
 
-### ✨ Digital Creativity
-Where visual experiments become digital products.
+<h3>✨ Digital Creativity</h3>
+<p>Where visual experiments become digital products.</p>
 
 </td>
 </tr>
@@ -317,4 +319,3 @@ I enjoy connecting with people who care about **code, design, technology, and am
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B86C5,55:784BA0,100:FF3CAC&height=125&section=footer" width="100%" alt="Colorful footer" />
 
 </div>
-
